@@ -13,3 +13,10 @@ my python project for udacity course "intro to programing".
  8. Check if the player wants to play again
  9. Check your style with pycodestyle
  10. Test Your Code
+ 
+ 
+ ![x_o](https://user-images.githubusercontent.com/94840939/201628896-046425ad-6a60-499c-9786-b90a0c095a78.png)
+
+
+
+
