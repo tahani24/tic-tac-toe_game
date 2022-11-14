@@ -1,7 +1,7 @@
 # tic-tac-toe_game
 my python project for udacity course "intro to programing".
 
- which require to build a game that have these features:
+ which require to build a game that have these instructions:
  
  1. Print descriptions of what's happening for the player
  2. Pausing between printing descriptions
